@@ -101,17 +101,6 @@ TomTom    Weather    Incident Data
 
 ---
 
-## 🌐 Backend Deployment
-
-The backend is deployed using **Render**.
-
-**Backend Endpoint:**
-
-https://safewalk-3sv0.onrender.com/
-
-> The endpoint is provided for backend/API access. The mobile application requires the appropriate environment configuration to run.
-
----
 
 ## 🏆 Achievement
 
